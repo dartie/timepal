@@ -1,0 +1,12 @@
+local: Europe/Rome
+
+targets:
+  Europe/Rome:
+    - Dario
+
+  America/New_York:
+    - John Williams
+
+  Asia/Tokyo:
+    - Suzuki Nakamura
+
